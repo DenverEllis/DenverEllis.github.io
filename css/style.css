@@ -288,7 +288,9 @@ figure {
         vertical-align: middle;
         min-height: 700px;
         padding: 2.5em;
-        position: relative; }
+        position: relative; 
+        color: #fff
+      }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
             text-align: center; } }
